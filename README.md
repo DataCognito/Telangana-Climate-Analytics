@@ -217,6 +217,7 @@ Sangareddy              33.29
 •	For crop planning, these temperatures suggest that while hottest district require more aggressive irrigation, even the cooler districts like Sangareddy remain high enough to impact soil health and water requirements.
 
 **Multivariate Analysis**
+
 <img width="575" height="433" alt="image" src="https://github.com/user-attachments/assets/ab33470e-69ad-48f6-8dd2-1c91eebe5ad2" />
 
 **Interpretation:**
