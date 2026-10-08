@@ -17,8 +17,6 @@ The dataset contains information related to daily weather conditions across vari
 
 The dataset contains daily weather observations across Telangana districts. The objective was to clean and analyse the data to understand seasonal weather patterns, variability in temperature and rainfall, relationships between weather variables, and differences across districts.
 
-This project aims to bridge the gap between complex climate data and actual farming by pinpointing areas most at risk for extreme heat or flooding that help farmers protect their livelihoods.
-
 **Objectives**
 
 •	Understand the dataset structure 
