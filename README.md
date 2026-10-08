@@ -312,6 +312,6 @@ Key Finding: High Skewness (9.30) and Kurtosis (169.62) in rainfall data diagnos
 
 **Conclusion**
 
-This analysis gives Telangana farmers a clear roadmap: 90.8% of areas need better irrigation while 9.2% monsoon zones require flood protection. Heat Index (38.81°C) shows humidity makes heat feel much worse than temperature alone.
+The analysis identified clear seasonal variation in temperature and rainfall across Telangana, with rainfall showing substantially higher variability than temperature-related measures. The rule-based segmentation grouped the observations into climate zones based on standardized temperature and rainfall values, providing a structured way to compare weather patterns.
 
 
